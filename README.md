@@ -27,6 +27,5 @@
 ![phpmyadmin](https://img.shields.io/static/v1?logo=phpmyadmin&label=&message=phpmyadmin&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![cloudflare](https://img.shields.io/static/v1?logo=cloudflare&label=&message=cloudflare&color=36465D&logoColor=AAA&style=flat-square)
-![mobaxterm](https://img.shields.io/static/v1?label=&message=mobaxterm&color=36465D&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=36465D&logoColor=AAA&style=flat-square)
