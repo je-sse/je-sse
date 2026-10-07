@@ -10,7 +10,6 @@
 ![bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=bash&color=36465D&logoColor=AAA&style=flat-square)
 
 ![misc](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
 ![centos](https://img.shields.io/static/v1?logo=centos&label=&message=centos&color=36465D&logoColor=AAA&style=flat-square)
 ![red hat](https://img.shields.io/static/v1?logo=redhat&label=&message=red%20hat&color=36465D&logoColor=AAA&style=flat-square)
 ![cpanel](https://img.shields.io/static/v1?logo=cpanel&label=&message=cpanel&color=36465D&logoColor=AAA&style=flat-square)
