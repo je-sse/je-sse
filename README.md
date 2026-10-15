@@ -1,4 +1,4 @@
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+
 ![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
 ![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
@@ -6,17 +6,3 @@
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=36465D&logoColor=AAA&style=flat-square)
 ![css](https://img.shields.io/static/v1?logo=css&label=&message=css&color=36465D&logoColor=AAA&style=flat-square)
 ![sql](https://img.shields.io/static/v1?logo=mysql&label=&message=sql&color=36465D&logoColor=AAA&style=flat-square)
-![bash](https://img.shields.io/static/v1?logo=gnubash&label=&message=bash&color=36465D&logoColor=AAA&style=flat-square)
-
-![misc](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![centos](https://img.shields.io/static/v1?logo=centos&label=&message=centos&color=36465D&logoColor=AAA&style=flat-square)
-![red hat](https://img.shields.io/static/v1?logo=redhat&label=&message=red%20hat&color=36465D&logoColor=AAA&style=flat-square)
-![cpanel](https://img.shields.io/static/v1?logo=cpanel&label=&message=cpanel&color=36465D&logoColor=AAA&style=flat-square)
-![wordpress](https://img.shields.io/static/v1?logo=wordpress&label=&message=wordpress&color=36465D&logoColor=AAA&style=flat-square)
-![apache](https://img.shields.io/static/v1?logo=apache&label=&message=apache&color=36465D&logoColor=AAA&style=flat-square)
-![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=36465D&logoColor=AAA&style=flat-square)
-![phpmyadmin](https://img.shields.io/static/v1?logo=phpmyadmin&label=&message=phpmyadmin&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![cloudflare](https://img.shields.io/static/v1?logo=cloudflare&label=&message=cloudflare&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=36465D&logoColor=AAA&style=flat-square)
